@@ -1,0 +1,43 @@
+body{
+    background-color:           #58355e;
+}
+.main-div {
+    float:          center;
+    text-align:     center;
+    font-family:    'Kurale', serif;
+    color:          #f9f3a5;
+}
+.main-row{
+    margin-top:     30px;
+    padding:        50px;
+    font-size:      4em;
+}
+.inner-row{
+    margin-top:     50px;
+    font-size:      0.6em;
+}
+.column-center{
+    width:      50%;
+    margin:     0 auto;
+}
+.code-author{
+    text-align:     center;
+    margin-top:     70px;
+    font-family:    "Times New Roman", Times, serif;
+    font-size:      0.25em;
+}
+.result-div{
+    background-color:   #2d936c;
+    margin-top:         20px;
+}
+.text-title{
+    font-size:      0.8em;
+    text-align:     left;
+}
+.text-description{
+    font-size:      0.5em;
+    text-align:     left;
+}
+.text-result{
+    padding:        20px;
+}
